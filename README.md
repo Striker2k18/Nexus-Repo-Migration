@@ -17,7 +17,7 @@ Before using this tool, ensure you have the following:
 ## Installation
 Clone the repository from GitHub:
 ```
-git clone https://github.com/yourusername/Nexus-Repo-Migration.git
+git clone https://github.com/Striker2k18/Nexus-Repo-Migration.git
 cd Nexus-Repo-Migration
 git checkout Golang-version
 ```
